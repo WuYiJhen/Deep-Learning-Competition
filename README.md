@@ -1,3 +1,3 @@
 # Deep-Learning-Compitition
 
-In class 
+In class Kaggle competition
