@@ -2,4 +2,4 @@
 
 In class Kaggle competition ( Fall 2018 )
 
-Teamates : 
+Teammates : 
